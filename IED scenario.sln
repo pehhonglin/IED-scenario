@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IED scenario", "IED scenario\IED scenario.pyproj", "{A593A8AB-9C96-4DE3-A454-329D25656B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A593A8AB-9C96-4DE3-A454-329D25656B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A593A8AB-9C96-4DE3-A454-329D25656B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB3CD5B-56B0-4638-8A87-5E82CB11904D}
+	EndGlobalSection
+EndGlobal
