@@ -246,8 +246,3 @@ if __name__ == '__main__':
         # Stop streaming
         pipeline.stop()
         cv2.destroyAllWindows()
-
-
-
-
-
