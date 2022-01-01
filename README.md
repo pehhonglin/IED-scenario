@@ -1,10 +1,14 @@
-Pull YOLOv5 using the following guide
-''' https://github.com/ultralytics/yolov5 '''
+# Robotic Arm for Urban Ops
 
-Place RAUrbanOps.py into the yolov5 folder.
+1. Pull YOLOv5 using the following guide
+```
+https://github.com/ultralytics/yolov5
+```
 
-Run the following command.
+2. Place **RAUrbanOps.py** into the yolov5 folder.
 
-''' python RAUrbanOps.py '''
+3. Run the following command.
 
-
+```
+python RAUrbanOps.py
+```
